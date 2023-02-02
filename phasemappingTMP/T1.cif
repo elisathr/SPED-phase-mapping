@@ -1,0 +1,61 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         4.94775
+_cell_length_b                         4.94775
+_cell_length_c                         14.14499
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      120
+_space_group_name_H-M_alt              'P 6/m m m'
+_space_group_IT_number                 191
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-y, x-y, z'
+   'y, -x+y, -z'
+   '-x+y, -x, z'
+   'x-y, x, -z'
+   '-x, -y, z'
+   'x, y, -z'
+   'y, -x+y, z'
+   '-y, x-y, -z'
+   'x-y, x, z'
+   '-x+y, -x, -z'
+   'y, x, -z'
+   '-y, -x, z'
+   'x-y, -y, -z'
+   '-x+y, y, z'
+   '-x, -x+y, -z'
+   'x, x-y, z'
+   '-y, -x, -z'
+   'y, x, z'
+   '-x+y, y, -z'
+   'x-y, -y, z'
+   'x, x-y, -z'
+   '-x, -x+y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Al-c       1.0     0.333333      0.000000      0.000000     Biso  1.000000 Al
+   Al(1)      1.0     0.000000      0.000000      0.406200     Biso  1.000000 Al
+   Al-Cu(1)   1.0     0.666667      0.333333      0.161200     Biso  1.000000 Cu
+   Al-Cu(2)   1.0     0.500000      0.000000      0.323700     Biso  1.000000 Cu
+   Li(1)      1.0     0.000000      0.000000      0.199300     Biso  1.000000 Li
+   Li(2)      1.0     0.333333      0.666667      0.500000     Biso  1.000000 Li
