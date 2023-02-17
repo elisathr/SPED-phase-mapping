@@ -1,2 +1,4 @@
 phasemappingTMP/*.hspy
 phasemappingTMP/*.hdf5
+
+*.npy
