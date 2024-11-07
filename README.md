@@ -6,7 +6,7 @@ The code is run with [pyxem](https://github.com/pyxem/pyxem) 0.14.2 and the data
 ### Workflow
 The workflow is as follows:
 
-1. [Preprocess](https://github.com/elisathr/SPED-phase-mapping/blob/main/Preprocessing.ipynb) the dataset
+1. [Preprocess](https://github.com/elisathr/SPED-phase-mapping/blob/main/preprocess.ipynb) the dataset
 2. Do phase mapping with one of the approaches, [non-negative matrix factorisation (NMF)](https://github.com/elisathr/SPED-phase-mapping/tree/main/NMF), [vector analysis](https://github.com/elisathr/SPED-phase-mapping/tree/main/VectorAnalysis), [template matching](https://github.com/elisathr/SPED-phase-mapping/tree/main/TemplateMatching) or [artificial neural netowrk (ann)](https://github.com/elisathr/SPED-phase-mapping/tree/main/ANN).
 3. [Create ground truth](https://github.com/elisathr/SPED-phase-mapping/blob/main/create_ground_truth.ipynb)
 4. [Determine the accuracy](https://github.com/elisathr/SPED-phase-mapping/blob/main/Determine_accuracy.ipynb)
